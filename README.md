@@ -1,1 +1,0 @@
-# OCR-Reader-with-text-and-speech-translation

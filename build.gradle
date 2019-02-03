@@ -1,47 +1,27 @@
-apply plugin: 'com.android.application'
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
 
-android {
-    compileSdkVersion 28
-    defaultConfig {
-        applicationId "com.example.lexo_dotslash"
-        minSdkVersion 21
-        targetSdkVersion 28
-        versionCode 1
-        versionName "1.0"
-        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+buildscript {
+    repositories {
+        google()
+        jcenter()
+        
     }
-    packagingOptions {
-        exclude 'META-INF/DEPENDENCIES'
-        exclude 'META-INF/LICENSE'
-        exclude 'META-INF/LICENSE.txt'
-        exclude 'META-INF/license.txt'
-        exclude 'META-INF/NOTICE'
-        exclude 'META-INF/NOTICE.txt'
-        exclude 'META-INF/notice.txt'
-        exclude 'META-INF/ASL2.0'
-        exclude 'META-INF/INDEX.LIST'
-    }
-
-    buildTypes {
-	debug {
-   		 buildConfigField 'String', "ApiKey", lexo_dotslash_OCR_API_KEY
-	}	
-        release {
-            minifyEnabled false
-            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
-        }
-	
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.3.0'
+        
+        // NOTE: Do not place your application dependencies here; they belong
+        // in the individual module build.gradle files
     }
 }
 
-dependencies {
-    implementation fileTree(dir: 'libs', include: ['*.jar'])
-    implementation 'com.android.support:appcompat-v7:28.0.0'
+allprojects {
+    repositories {
+        google()
+        jcenter()
+        
+    }
+}
 
-    implementation 'com.google.android.gms:play-services-vision:17.0.2'
-
-    testImplementation 'junit:junit:4.12'
-    androidTestImplementation 'com.android.support.test:runner:1.0.2'
-    androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
-    implementation 'com.google.cloud:google-cloud-translate:1.59.0'
+task clean(type: Delete) {
+    delete rootProject.buildDir
 }
