@@ -1,0 +1,241 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/616861ee52fe04656f911846bdf97204/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/play-services-vision-17.0.2.aar/3f642fcd398ae3fa595be556050e891f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-17.0.2.aar/6d7e04584629b775e9cfc48bb2e8c09e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-16.0.0.aar/3f197479707f241ca4269da8e70a95f2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/0612c1edecd53832239f1d46303174db/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-16.0.0.aar/3b50bbbc74bff6cedefbbfbfa529a944/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/72599741e483945800524588b8d97ec2/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/cfb77147cf8e852a64ebc61e47c464a0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/db2abcb71bde1fd4f056d5e8aeb135dd/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/90058402af4eba5a7b4c8a910a5d0563/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/2f58886521c7631a0f2789aa546b66a3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/18331255e5111c65279c9ff00c79c56e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/110787801038d51505a80f730709a2da/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/40cb6c936958703610a46b73334278a5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/1dfb2c10940ae31d769790c5e5571055/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/1ba7528f5183f415ec07bc0f14ce8990/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/31dabdb2cc78ca4b684a1f7df20fb996/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/327c2d5171b8c2aac0236f5a86b1e890/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/290d96d3bad126808a9f272c156b792f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/c483ba87804177bece2b46977a4e3bd3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/d7fa21870d897fe0afc59e4a5dd0f257/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/b0382ad2e6d85c29301b5b872c3451ce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/06e5f52bbc6dcf8243ba381ae502af27/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/77015a64bc41888593d6ebfd638a1789/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d4f431253948eadc86c48b2b28d6b3f0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/fa97aa533d30b028b0e0b0ed6a17d54f/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/c6d416def864a4c86e38a1e01738fd7a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ad62aad179bd39f1065d28deb53df8bd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/f39e367f6b2add5918e4e21efed250c9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/a5b50c6c5ae6d27fca4b6d70f41e48d0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/c4e05e8a28a772d36d266272d170eeff/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/197e3c58b33b5fd3997d2135d4ae3de8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/8dddc4d50bf9f3c837a8d5465490263d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/fd005504b9ad7ba675eab1037878daf9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/daac0bc99031242bf14e31809c28856d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/d24a4a200d0c99d6f37ee3398c220d84/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml
+		ADDED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml
+		ADDED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml:5:5-24:19
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/play-services-vision-17.0.2.aar/3f642fcd398ae3fa595be556050e891f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/play-services-vision-17.0.2.aar/3f642fcd398ae3fa595be556050e891f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-17.0.2.aar/6d7e04584629b775e9cfc48bb2e8c09e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-17.0.2.aar/6d7e04584629b775e9cfc48bb2e8c09e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-16.0.0.aar/3f197479707f241ca4269da8e70a95f2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-16.0.0.aar/3f197479707f241ca4269da8e70a95f2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-16.0.0.aar/3b50bbbc74bff6cedefbbfbfa529a944/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-16.0.0.aar/3b50bbbc74bff6cedefbbfbfa529a944/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/72599741e483945800524588b8d97ec2/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/72599741e483945800524588b8d97ec2/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/cfb77147cf8e852a64ebc61e47c464a0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/cfb77147cf8e852a64ebc61e47c464a0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/db2abcb71bde1fd4f056d5e8aeb135dd/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/db2abcb71bde1fd4f056d5e8aeb135dd/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/90058402af4eba5a7b4c8a910a5d0563/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/90058402af4eba5a7b4c8a910a5d0563/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/77015a64bc41888593d6ebfd638a1789/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/77015a64bc41888593d6ebfd638a1789/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d4f431253948eadc86c48b2b28d6b3f0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d4f431253948eadc86c48b2b28d6b3f0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/fa97aa533d30b028b0e0b0ed6a17d54f/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/fa97aa533d30b028b0e0b0ed6a17d54f/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d4f431253948eadc86c48b2b28d6b3f0/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.lexo_dotslash.MainActivity
+ADDED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml:12:9-19:20
+	android:name
+		ADDED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml:16:27-74
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml:20:9-99
+	android:value
+		ADDED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml:20:78-97
+	android:name
+		ADDED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml:20:20-77
+activity#com.example.lexo_dotslash.OcrReader
+ADDED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml:21:9-23:48
+	android:label
+		ADDED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml:23:13-45
+	android:name
+		ADDED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml:22:13-63
+uses-permission#android.permission.INTERNET
+ADDED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml:25:5-66
+	android:name
+		ADDED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml:25:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml:26:5-64
+	android:name
+		ADDED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml:26:22-62
+uses-sdk
+INJECTED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml
+INJECTED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/616861ee52fe04656f911846bdf97204/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/616861ee52fe04656f911846bdf97204/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/play-services-vision-17.0.2.aar/3f642fcd398ae3fa595be556050e891f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/play-services-vision-17.0.2.aar/3f642fcd398ae3fa595be556050e891f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-17.0.2.aar/6d7e04584629b775e9cfc48bb2e8c09e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-17.0.2.aar/6d7e04584629b775e9cfc48bb2e8c09e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-16.0.0.aar/3f197479707f241ca4269da8e70a95f2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-16.0.0.aar/3f197479707f241ca4269da8e70a95f2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/0612c1edecd53832239f1d46303174db/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/0612c1edecd53832239f1d46303174db/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-16.0.0.aar/3b50bbbc74bff6cedefbbfbfa529a944/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-16.0.0.aar/3b50bbbc74bff6cedefbbfbfa529a944/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/72599741e483945800524588b8d97ec2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/72599741e483945800524588b8d97ec2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/cfb77147cf8e852a64ebc61e47c464a0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/cfb77147cf8e852a64ebc61e47c464a0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/db2abcb71bde1fd4f056d5e8aeb135dd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/db2abcb71bde1fd4f056d5e8aeb135dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/90058402af4eba5a7b4c8a910a5d0563/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/90058402af4eba5a7b4c8a910a5d0563/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/2f58886521c7631a0f2789aa546b66a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/2f58886521c7631a0f2789aa546b66a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/18331255e5111c65279c9ff00c79c56e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/18331255e5111c65279c9ff00c79c56e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/110787801038d51505a80f730709a2da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/110787801038d51505a80f730709a2da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/40cb6c936958703610a46b73334278a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/40cb6c936958703610a46b73334278a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/1dfb2c10940ae31d769790c5e5571055/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/1dfb2c10940ae31d769790c5e5571055/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/1ba7528f5183f415ec07bc0f14ce8990/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/1ba7528f5183f415ec07bc0f14ce8990/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/31dabdb2cc78ca4b684a1f7df20fb996/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/31dabdb2cc78ca4b684a1f7df20fb996/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/327c2d5171b8c2aac0236f5a86b1e890/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/327c2d5171b8c2aac0236f5a86b1e890/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/290d96d3bad126808a9f272c156b792f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/290d96d3bad126808a9f272c156b792f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/c483ba87804177bece2b46977a4e3bd3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/c483ba87804177bece2b46977a4e3bd3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/d7fa21870d897fe0afc59e4a5dd0f257/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/d7fa21870d897fe0afc59e4a5dd0f257/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/b0382ad2e6d85c29301b5b872c3451ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/b0382ad2e6d85c29301b5b872c3451ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/06e5f52bbc6dcf8243ba381ae502af27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/06e5f52bbc6dcf8243ba381ae502af27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/77015a64bc41888593d6ebfd638a1789/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/77015a64bc41888593d6ebfd638a1789/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d4f431253948eadc86c48b2b28d6b3f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d4f431253948eadc86c48b2b28d6b3f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/fa97aa533d30b028b0e0b0ed6a17d54f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/fa97aa533d30b028b0e0b0ed6a17d54f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/c6d416def864a4c86e38a1e01738fd7a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/c6d416def864a4c86e38a1e01738fd7a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ad62aad179bd39f1065d28deb53df8bd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ad62aad179bd39f1065d28deb53df8bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/f39e367f6b2add5918e4e21efed250c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/f39e367f6b2add5918e4e21efed250c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/a5b50c6c5ae6d27fca4b6d70f41e48d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/a5b50c6c5ae6d27fca4b6d70f41e48d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/c4e05e8a28a772d36d266272d170eeff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/c4e05e8a28a772d36d266272d170eeff/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/197e3c58b33b5fd3997d2135d4ae3de8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/197e3c58b33b5fd3997d2135d4ae3de8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/8dddc4d50bf9f3c837a8d5465490263d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/8dddc4d50bf9f3c837a8d5465490263d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/fd005504b9ad7ba675eab1037878daf9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/fd005504b9ad7ba675eab1037878daf9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/daac0bc99031242bf14e31809c28856d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/daac0bc99031242bf14e31809c28856d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/d24a4a200d0c99d6f37ee3398c220d84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/d24a4a200d0c99d6f37ee3398c220d84/AndroidManifest.xml:20:5-44
+INJECTED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml
+INJECTED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/90058402af4eba5a7b4c8a910a5d0563/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml
+		ADDED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml
+		ADDED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/72599741e483945800524588b8d97ec2/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/72599741e483945800524588b8d97ec2/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/72599741e483945800524588b8d97ec2/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/72599741e483945800524588b8d97ec2/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/db2abcb71bde1fd4f056d5e8aeb135dd/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/db2abcb71bde1fd4f056d5e8aeb135dd/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/db2abcb71bde1fd4f056d5e8aeb135dd/AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/90058402af4eba5a7b4c8a910a5d0563/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/77015a64bc41888593d6ebfd638a1789/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/77015a64bc41888593d6ebfd638a1789/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/90058402af4eba5a7b4c8a910a5d0563/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /home/pranoppal/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/90058402af4eba5a7b4c8a910a5d0563/AndroidManifest.xml:27:13-51

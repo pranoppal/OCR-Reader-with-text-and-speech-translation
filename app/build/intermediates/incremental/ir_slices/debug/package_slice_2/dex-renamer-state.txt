@@ -1,0 +1,4 @@
+#Mon Feb 04 22:01:11 IST 2019
+base.0=/home/pranoppal/Downloads/android-vision-master/visionSamples/Lexodotslash/app/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex
